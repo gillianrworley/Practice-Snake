@@ -1,3 +1,12 @@
+# Gillian
+# Practice Snake
+# Feb. 27 2017
+#Battlesnake 2017
+
+
+
+
+
 import bottle
 import os
 import random
